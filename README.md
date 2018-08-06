@@ -1,2 +1,2 @@
-# Vue-practive
+# Vue-practice
 Just a practice app
